@@ -1,2 +1,13 @@
 # 项目排除路径
 /target/
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
