@@ -9,5 +9,6 @@ package com.test.day01;
 public class Demo04 {
     public static void main(String[] args) {
         System.out.println("测试GitHub的分支管理");
+        System.out.println("测试GitHub的分支管理挺不错嘛");
     }
 }
