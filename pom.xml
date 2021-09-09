@@ -11,6 +11,7 @@
     <modules>
         <module>learnJava</module>
         <module>learnFlink</module>
+        <module>learnSpark</module>
     </modules>
 
     <properties>
