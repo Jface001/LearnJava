@@ -14,7 +14,7 @@ object Wordcount {
     val spark: SparkSession = SparkSession.builder()
       .appName(this.getClass.getSimpleName.stripSuffix("$"))
       .master("local[*]")
-      .config("spark.sql.shuffle.partitions", 4)
+      .config("spark.sql.shuffle.partitions", 8)
       .getOrCreate()
 
     import spark.implicits._
