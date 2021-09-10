@@ -54,6 +54,7 @@ object Wordcount {
         |group by t.word
         |order by total desc
         |""".stripMargin)
+    //打印测试
     resultDataSet02.printSchema()
     resultDataSet02.show(5, truncate = false)
 
