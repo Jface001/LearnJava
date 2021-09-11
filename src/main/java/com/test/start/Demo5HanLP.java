@@ -1,4 +1,4 @@
-package com.test.day01;
+package com.test.start;
 
 import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.seg.common.Term;

@@ -1,4 +1,4 @@
-package com.test.day01;
+package com.test.start;
 
 /**
  * @Author: Jface
