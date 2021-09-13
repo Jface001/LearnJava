@@ -8,37 +8,14 @@
     <artifactId>LearnJface</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>day01_start</module>
+        <module>day02_thread</module>
+        <module>day03_jdbc</module>
+        <module>day04_properties</module>
+        <module>day05_c3p0</module>
+        <module>day06_JDspider</module>
 
-
-    <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
-    </properties>
-
-<dependencies>
-
-    <dependency>
-        <groupId>cn.hutool</groupId>
-        <artifactId>hutool-all</artifactId>
-        <version>5.7.9</version>
-    </dependency>
-
-    <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-    <dependency>
-        <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java</artifactId>
-        <version>5.1.49</version>
-    </dependency>
-
-    <!-- https://mvnrepository.com/artifact/com.hankcs/hanlp -->
-    <dependency>
-        <groupId>com.hankcs</groupId>
-        <artifactId>hanlp</artifactId>
-        <version>portable-1.7.5</version>
-    </dependency>
-
-</dependencies>
-
-
+    </modules>
 
 </project>
