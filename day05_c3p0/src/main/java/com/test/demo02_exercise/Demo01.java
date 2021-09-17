@@ -1,6 +1,6 @@
 package com.test.demo02_exercise;
 import com.test.utils.JDBCUtils;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
