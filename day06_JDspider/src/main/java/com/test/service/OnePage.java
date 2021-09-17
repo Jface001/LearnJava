@@ -1,6 +1,4 @@
 package com.test.service;
-
-
 import com.test.dao.JdDao;
 import com.test.pojo.Item;
 import org.apache.http.HttpEntity;
