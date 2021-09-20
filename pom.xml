@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test</groupId>
-    <artifactId>LearnJface</artifactId>
+    <artifactId>LearnJava</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
     <modules>
@@ -17,6 +17,7 @@
         <module>day06_JDspider</module>
         <module>java_base</module>
         <module>kafkaAPI</module>
+        <module>Jedis</module>
 
     </modules>
 
