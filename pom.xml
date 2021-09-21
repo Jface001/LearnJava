@@ -18,6 +18,8 @@
         <module>java_base</module>
         <module>kafkaAPI</module>
         <module>Jedis</module>
+        <module>hbaseAPI</module>
+        <module>elasticsearch</module>
 
     </modules>
 
