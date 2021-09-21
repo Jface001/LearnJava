@@ -25,9 +25,9 @@ public class Demo04 {
         Student s2 = new Student("杜甫", 18);
         Student s3 = new Student("猪皮", 20);
 //        3. 添加元素到集合中.
-        hm.put("heima001", s1);
-        hm.put("heima002", s2);
-        hm.put("heima003", s3);
+        hm.put("heimao001", s1);
+        hm.put("heimao002", s2);
+        hm.put("heimao003", s3);
 //        4. 遍历集合.
         //方式1:通过健求值
         Set<String> keySet = hm.keySet();
