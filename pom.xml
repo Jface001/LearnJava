@@ -20,6 +20,7 @@
         <module>Jedis</module>
         <module>hbaseAPI</module>
         <module>elasticsearch</module>
+        <module>CustomUtils</module>
 
     </modules>
 
