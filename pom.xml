@@ -21,6 +21,7 @@
         <module>hbaseAPI</module>
         <module>elasticsearch</module>
         <module>CustomUtils</module>
+        <module>commons_configuration</module>
 
     </modules>
 
