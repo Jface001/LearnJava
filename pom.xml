@@ -23,6 +23,7 @@
         <module>CustomUtils</module>
         <module>commons_configuration</module>
         <module>learn_algorithm</module>
+        <module>mapreduce</module>
 
     </modules>
 
