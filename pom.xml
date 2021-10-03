@@ -20,7 +20,7 @@
         <module>Jedis</module>
         <module>hbaseAPI</module>
         <module>elasticsearch</module>
-        <module>CustomUtils</module>
+        <module>custom_utils</module>
         <module>commons_configuration</module>
         <module>learn_algorithm</module>
         <module>mapreduce</module>
