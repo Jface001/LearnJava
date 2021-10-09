@@ -24,6 +24,7 @@
         <module>commons_configuration</module>
         <module>learn_algorithm</module>
         <module>mapreduce</module>
+        <module>hw_nowcoder</module>
 
     </modules>
 
